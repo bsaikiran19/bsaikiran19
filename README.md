@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in Java language<br>🤝 I’m looking for help with any projects based on C,Python and Java language<br>🌱 I’m currently learning Java Language<br>
+🔭 I’m currently working on improving my skills in Java language<br>🤝 I’m looking for help with any projects based on C,Python and Java language<br>
 
 
 ## 🌐 Socials:
